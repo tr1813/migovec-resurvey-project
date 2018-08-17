@@ -1,0 +1,41 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 1165.83m (surface 0.00m, duplicated 317.80m)\nvertical range: 423.71m (from 34@ttt.below_TTT at 120.27m to 9@milanova.below_TTT at -303.44m)\nnorth-south range: 291.31m (from 34@ttt.below_TTT at 183.63m to 8@spodnji.below_TTT at -107.68m)\neast-west range: 149.73m (from 14@ttt.below_TTT at 52.25m to 2@milanova.below_TTT at -97.47m)\nnumber of shots: 172\nnumber of stations: 181"
+xth_cp_data_tree_insert 18 1 1 below_TTT below_TTT "Below TTT and the deep leads" "Below TTT and the deep leads" "length: 1165.83m (surface 0.00m, duplicated 317.80m)\nvertical range: 423.71m (from 34@ttt.below_TTT at 120.27m to 9@milanova.below_TTT at -303.44m)\nnorth-south range: 291.31m (from 34@ttt.below_TTT at 183.63m to 8@spodnji.below_TTT at -107.68m)\neast-west range: 149.73m (from 14@ttt.below_TTT at 52.25m to 2@milanova.below_TTT at -97.47m)\nnumber of shots: 172\nnumber of stations: 181"
+xth_cp_data_tree_insert 20 18 2 ttt ttt.below_TTT "" "" "length: 304.00m (surface 0.00m, duplicated 0.00m)\nvertical range: 120.27m (from 34@ttt.below_TTT at 120.27m to 1@ttt.below_TTT at 0.00m)\nnorth-south range: 183.63m (from 34@ttt.below_TTT at 183.63m to 2@ttt.below_TTT at -0.00m)\neast-west range: 52.25m (from 14@ttt.below_TTT at 52.25m to 1@ttt.below_TTT at 0.00m)\nnumber of shots: 33\nnumber of stations: 34"
+xth_cp_data_tree_insert 147 18 2 zima00 zima00.below_TTT "" "" "length: 249.50m (surface 0.00m, duplicated 0.00m)\nvertical range: 162.51m (from 20@zima00.below_TTT at 1.63m to 1@zima00.below_TTT at -160.88m)\nnorth-south range: 72.66m (from 22@zima00.below_TTT at 0.00m to 2@zima00.below_TTT at -72.66m)\neast-west range: 63.53m (from 22@zima00.below_TTT at 0.00m to 3@zima00.below_TTT at -63.53m)\nnumber of shots: 21\nnumber of stations: 22"
+xth_cp_data_tree_insert 256 18 2 ajdovscina ajdovscina.below_TTT "" "" "length: 29.00m (surface 0.00m, duplicated 0.00m)\nvertical range: 12.50m (from 2@ajdovscina.below_TTT at -10.35m to 1@ajdovscina.below_TTT at -22.85m)\nnorth-south range: 13.27m (from 4@ajdovscina.below_TTT at -40.72m to 2@ajdovscina.below_TTT at -53.99m)\neast-west range: 10.64m (from 4@ajdovscina.below_TTT at -33.20m to 1@ajdovscina.below_TTT at -43.84m)\nnumber of shots: 3\nnumber of stations: 4"
+xth_cp_data_tree_insert 287 18 2 spodnji spodnji.below_TTT "" "" "length: 147.60m (surface 0.00m, duplicated 0.00m)\nvertical range: 98.38m (from 1@spodnji.below_TTT at -160.88m to 16@spodnji.below_TTT at -259.27m)\nnorth-south range: 35.03m (from 1@spodnji.below_TTT at -72.66m to 8@spodnji.below_TTT at -107.68m)\neast-west range: 30.91m (from 3@spodnji.below_TTT at -56.70m to 15@spodnji.below_TTT at -87.60m)\nnumber of shots: 15\nnumber of stations: 16"
+xth_cp_data_tree_insert 352 18 2 milanova milanova.below_TTT "" "" "length: 88.40m (surface 0.00m, duplicated 0.00m)\nvertical range: 72.28m (from 1@milanova.below_TTT at -231.17m to 9@milanova.below_TTT at -303.44m)\nnorth-south range: 21.96m (from 9@milanova.below_TTT at -70.88m to 2@milanova.below_TTT at -92.84m)\neast-west range: 11.01m (from 8@milanova.below_TTT at -86.46m to 2@milanova.below_TTT at -97.47m)\nnumber of shots: 8\nnumber of stations: 9"
+xth_cp_data_tree_insert 390 18 2 wac wac.below_TTT "" "" "length: 221.33m (surface 0.00m, duplicated 0.00m)\nvertical range: 25.52m (from 29@wac.below_TTT at -50.89m to 1@wac.below_TTT at -76.41m)\nnorth-south range: 138.39m (from 30@wac.below_TTT at 67.54m to 5@wac.below_TTT at -70.86m)\neast-west range: 59.26m (from 4@wac.below_TTT at -34.86m to 30@wac.below_TTT at -94.12m)\nnumber of shots: 29\nnumber of stations: 30"
+xth_cp_data_tree_insert 457 18 2 dejavu dejavu.below_TTT "" "" "length: 90.69m (surface 0.00m, duplicated 0.00m)\nvertical range: 19.52m (from 12@dejavu.below_TTT at 9.86m to 1@dejavu.below_TTT at -9.66m)\nnorth-south range: 26.20m (from 10@dejavu.below_TTT at 4.61m to 1@dejavu.below_TTT at -21.59m)\neast-west range: 22.47m (from 9@dejavu.below_TTT at -25.34m to 12@dejavu.below_TTT at -47.80m)\nnumber of shots: 12\nnumber of stations: 13"
+xth_cp_data_tree_insert 507 18 2 buckwheat buckwheat.below_TTT "" "" "length: 0.00m (surface 0.00m, duplicated 37.49m)\nvertical range: 21.25m (from 7@buckwheat.below_TTT at -55.16m to 4@buckwheat.below_TTT at -76.41m)\nnorth-south range: 12.24m (from 7@buckwheat.below_TTT at -44.41m to 1@buckwheat.below_TTT at -56.66m)\neast-west range: 2.92m (from 7@buckwheat.below_TTT at -35.46m to 2@buckwheat.below_TTT at -38.37m)\nnumber of shots: 6\nnumber of stations: 7"
+xth_cp_data_tree_insert 511 18 2 TTTr TTTr.below_TTT "" "" "length: 35.31m (surface 0.00m, duplicated 280.31m)\nvertical range: 129.30m (from 46@TTTr.below_TTT at 74.13m to 1@TTTr.below_TTT at -55.16m)\nnorth-south range: 116.84m (from 47@TTTr.below_TTT at 59.15m to 7@TTTr.below_TTT at -57.69m)\neast-west range: 96.10m (from 47@TTTr.below_TTT at 52.25m to 8@TTTr.below_TTT at -43.84m)\nnumber of shots: 45\nnumber of stations: 46"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert map 1 142X1 p1 1 mtttp mtttp@ttt.below_TTT "" ""
+xth_cp_map_tree_insert map 1 246X1 p1 1 mzima00p_1 mzima00p_1@zima00.below_TTT "" ""
+xth_cp_map_tree_insert map 1 247X1 p1 1 mzima00p_2 mzima00p_2@zima00.below_TTT "" ""
+xth_cp_map_tree_insert map 1 248X1 p1 1 mzima00p_3 mzima00p_3@zima00.below_TTT "" ""
+xth_cp_map_tree_insert map 1 249X1 p1 1 mzima00p_4 mzima00p_4@zima00.below_TTT "" ""
+xth_cp_map_tree_insert map 1 250X1 p1 1 mzima00p_5 mzima00p_5@zima00.below_TTT "" ""
+xth_cp_map_tree_insert map 1 251X1 p1 1 mzima00p_6 mzima00p_6@zima00.below_TTT "" ""
+xth_cp_map_tree_insert map 1 283X1 p1 1 madjovp_1 madjovp_1@ajdovscina.below_TTT "" ""
+xth_cp_map_tree_insert map 1 284X1 p1 1 madjovp_2 madjovp_2@ajdovscina.below_TTT "" ""
+xth_cp_map_tree_insert map 1 344X1 p1 1 mspodnjip_1 mspodnjip_1@spodnji.below_TTT "" ""
+xth_cp_map_tree_insert map 1 345X1 p1 1 mspodnjip_2 mspodnjip_2@spodnji.below_TTT "" ""
+xth_cp_map_tree_insert map 1 346X1 p1 1 mspodnjip_3 mspodnjip_3@spodnji.below_TTT "" ""
+xth_cp_map_tree_insert map 1 347X1 p1 1 mspodnjip_4 mspodnjip_4@spodnji.below_TTT "" ""
+xth_cp_map_tree_insert map 1 379X1 p1 1 mmilanovap_1 mmilanovap_1@milanova.below_TTT "" ""
+xth_cp_map_tree_insert map 1 380X1 p1 1 mmilanovap_2 mmilanovap_2@milanova.below_TTT "" ""
+xth_cp_map_tree_insert map 1 449X1 p1 1 mwacp_1 mwacp_1@wac.below_TTT "" ""
+xth_cp_map_tree_insert map 1 450X1 p1 1 mwacp_2 mwacp_2@wac.below_TTT "" ""
+xth_cp_map_tree_insert map 1 451X1 p1 1 mwacp_3 mwacp_3@wac.below_TTT "" ""
+xth_cp_map_tree_insert map 1 452X1 p1 1 mwacp_4 mwacp_4@wac.below_TTT "" ""
+xth_cp_map_tree_insert map 1 503X1 p1 1 mdejavup_1 mdejavup_1@dejavu.below_TTT "" ""
+xth_cp_map_tree_insert map 1 504X1 p1 1 mdejavup_2 mdejavup_2@dejavu.below_TTT "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 1166 27
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1531919171
+

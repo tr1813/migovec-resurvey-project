@@ -1,0 +1,20 @@
+encoding  utf-8
+
+source "prima_ubend_mona.th"
+layout local
+  scale 1 500
+  colour map-fg altitude #[92 86 65]
+  map-header 25 75 e
+  #symbol-hide line survey
+  #symbol-hide point station
+  legend on
+  
+  symbol-assign line slope BCRA
+
+  
+endlayout
+export map -projection plan -o west_plateau.pdf -layout local
+export model -fmt survex -o "west_plateau.3d"
+
+
+#export map -fmt esri  -o "west_plateau"
