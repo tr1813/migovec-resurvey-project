@@ -3,7 +3,7 @@ survey deep_branch -title "Klic Globin extensions"
 
   input "moonraker/moonraker.th"
   input "moonraker_2/moonraker_2.th"   
-  #input "the_aqueduct/the_aqueduct.th" 
+  input "the_aqueduct/the_aqueduct.th" 
   input "klic_globin/klic_globin.th"
   
   input "deeper_than_most/deeper_than_most.th"
@@ -12,7 +12,7 @@ survey deep_branch -title "Klic Globin extensions"
   input "mouseleum_2/mouseleum_2.th"
   input "chocolate_river/chocolate_river.th"
   
-  #equate 37@the_aqueduct 25@moonraker
+  equate 37@the_aqueduct 25@moonraker
   equate 28@moonraker 0@klic_globin
   equate 9@moonraker_2 9@moonraker
   equate 3@deeper_than_most 15@klic_globin

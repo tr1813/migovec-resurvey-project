@@ -1,5 +1,5 @@
 encoding  utf-8
-##XTHERION## xth_me_area_adjust -296.0 -2962.0 3414.0 12724.0
+##XTHERION## xth_me_area_adjust -304.0 -2968.0 3424.0 12732.0
 ##XTHERION## xth_me_area_zoom_to 25
 
 # 2018.08.12 created by TopoDroid v. 4.0.1a
@@ -1098,6 +1098,7 @@ line wall -reverse on
   400.31 -1585.64
   391.86 -1610.75
   385.44 -1638.93
+  altitude .
   379.38 -1664.05
   374.47 -1689.21
   365.68 -1717.89
