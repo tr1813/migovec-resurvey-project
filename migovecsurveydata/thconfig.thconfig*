@@ -1,5 +1,4 @@
 encoding  utf-8
-
 source "prima_ubend_mona.th"
 layout local
   scale 1 500

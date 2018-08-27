@@ -105,6 +105,8 @@ survey primadona -title "Primadona"
      input "2016/quantum_state/quantum_state.th"
      input "2016/terminus/terminus.th"
      input "2016/dejavu/dejavu.th"
+     input "2016/tight_and_scrotty/tight_and_scrotty.th"
+     input "2016/gamblers_ruin/gamblers_ruin.th"
      
      
      equate 39@karstaway 1@galerija_resurvey
@@ -120,7 +122,8 @@ survey primadona -title "Primadona"
      equate 15@cattlegrid 17@the_stile
      equate 14@quantum_state 11@galerija
      equate 16@terminus 1@quantum_state
-     
+     equate 9@tight_and_scrotty 10@colony
+     equate 9@gamblers_ruin 5@udc
      
      join mfip_2@mfi hotmkp_1@hotmk
      join s1_l1@wac:0 s3_l1@hotmk:end
@@ -151,6 +154,7 @@ survey primadona -title "Primadona"
      input "2017/alabaster/alabaster.th"
      input "2017/jack_of_hearts/jack_of_hearts.th"
      input "2017/more_like_welding/more_like_welding.th"
+     input "2017/hammerhead/hammerhead.th"
      
      
      
@@ -168,6 +172,7 @@ survey primadona -title "Primadona"
       equate 35@jack_of_hearts 39@smer0
       equate 18@TTTr 1@dejavu
       equate 1@mfi 1@more_like_welding
+      equate 9@hammerhead 13@dejavu
       
       
       join fenestratorp_2@fenestrator cattlegridp_2@cattlegrid
